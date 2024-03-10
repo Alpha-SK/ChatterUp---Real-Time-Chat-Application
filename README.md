@@ -3,10 +3,10 @@ An interactive real-time chat application, facilitating seamless communication a
 
 To run the code, first you need to install dependencies. 
 In terminal run 
-  npm install
+  #npm install
 to install all the required dependencies.
 
 Use command
-  npm start
+  #npm start
 to run server using nodemon.
 
